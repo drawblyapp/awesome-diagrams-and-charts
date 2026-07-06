@@ -133,6 +133,7 @@
 ## Text-to-Diagram Tools
 
 - [**Mermaid**](https://mermaid.js.org/) — Diagram types: flowchart, sequence, class, state, gantt, pie, er, gitGraph, journey, timeline, mindmap, block, zenuml. Renders via D3. License: MIT.
+- [**Mermaid Online**](https://mermaidonline.org/?utm_source=awesome-diagrams-charts&utm_medium=github_awesome_list&utm_campaign=mo_backlink) — Browser-based Mermaid preview and export tool. Exports PNG, SVG, JPG, WebP, and PDF for documentation, READMEs, blogs, and slides.
 - [**PlantUML**](https://plantuml.com/) — Diagram types: sequence, use case, class, activity, component, state, object, deployment, timing, network, salt (UI mockup), Gantt, math, mindmap, AsciiMath. Uses Graphviz for layout. License: GPL/LGPL/EPL.
 - [**D2**](https://d2lang.com/) — Diagram scripting language. Supports layouts: DAG, ELK, Tree. Themes available. Compiles to SVG/PNG. License: MPL-2.0.
 - [**Graphviz**](https://graphviz.org/) — Layout engines: dot (hierarchical), neato (spring), fdp (force), sfdp (multiscale), circo (circular), twopi (radial), osage (array), patchwork (squarified treemap). DOT language input. License: EPL.
